@@ -9,5 +9,4 @@ We aim at to be the successor of [iris](https://github.com/islisp-dev/iris).
 
 [^1]: https://matt.might.net/articles/cesk-machines/
 
----
 (c) 2022 TANIGUCHI Masaya
